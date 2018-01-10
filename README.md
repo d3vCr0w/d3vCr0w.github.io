@@ -1,4 +1,3 @@
-d3vCr0w's Cydia Repository
+d3vCr0w's Web Page
 
-This is my Cydia Repository and here I will upload some basic tweaks while I learn to make better ones.
-Add: https://d3vCr0w.github.io to Cydia
+Add: https://d3vCr0w.github.io/repo to Cydia
